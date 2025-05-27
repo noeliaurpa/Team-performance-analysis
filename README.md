@@ -5,7 +5,7 @@ It aims to evaluate team velocity based on the story points completed over the l
 
 This analysis will help identify improvement opportunities in time management and the quality of the continuous delivery process.
 
-## To view the project you can go to the following link: [Google Colab](https://colab.research.google.com/drive/1DLEm3ElrXzhEJh6AK7E5f0QhgR9_K1Bt?hl=es#scrollTo=5dde658f-b7e5-4fe3-a0cb-e4ca57659249)
+## To view the project you can go to the following link: [Google Colab](https://colab.research.google.com/drive/1DLEm3ElrXzhEJh6AK7E5f0QhgR9_K1Bt?usp=sharing)
 
 Prediction:
 
